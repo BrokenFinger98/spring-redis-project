@@ -25,6 +25,6 @@ spring:
     activate:
       on-profile: prod
   datasource:
-    url: jdbc:mysql://instgram-db.cjoi4eemqtnt.ap-northeast-2.rds.amazonaws.com:3306/mydb
+    url: jdbc:mysql://instagram-db.cjoi4eemqtnt.ap-northeast-2.rds.amazonaws.com:3306/mydb
     username: admin
     password: password
